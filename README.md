@@ -3,4 +3,4 @@ Program önce kullanıcının dış IP adresini almak için bir dış servise (i
 
 access_key kısmına kendi ipstack API anahtaranızı girmeniz gerekiyor.
 ```
-https://i.hizliresim.com/jiumwuu.PNG
+![ip](https://github.com/twiez/F0cus-Mail-Sender-Main/assets/104163472/98654f2c-5f57-45fe-a3b9-f2b3b7f9e250)
